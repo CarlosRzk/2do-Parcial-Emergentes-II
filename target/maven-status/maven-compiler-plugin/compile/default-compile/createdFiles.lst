@@ -1,0 +1,5 @@
+com\emergentes\modelo\Formulario.class
+com\emergentes\controlador\FormularioController.class
+com\emergentes\dao\FormularioDAO.class
+com\emergentes\dao\FormularioDAOimp.class
+com\emergentes\utiles\ConexionBD.class
